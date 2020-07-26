@@ -1,0 +1,26 @@
+{
+  "name": "scout-logger",
+  "version": "1.0.0",
+  "description": "Scout Logger is simple way to log and scout future opponents.  With a focus on video games but use case for for real life, this app will make any user of it more competetive.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancek00/scout-logger.git"
+  },
+  "author": "InfiniteRecursion.codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancek00/scout-logger/issues"
+  },
+  "homepage": "https://github.com/nancek00/scout-logger#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.5"
+  }
+}

@@ -1,0 +1,25 @@
+* Top Level: Select Game / Category
+** Ex: Madden 21, MLB The Show 20, 
+** Include general? Like Baseball/Football
+* Two main Features of app
+** create per user logs of games played
+** create public user scouting / reviews
+* Known Components
+** User Authentication (Firebase)
+** Anonymous Viewing of public scouting
+* Monetize??
+** Public reviews/scouts only allowed 15 minute per user
+*** allow upgrade opportunity?  
+** Limit number of logs
+*** Subscription based to have unlimited
+* Tasks
+** TODO Register Firebase App
+** TODO Create Login Pages (Start with only Google then expand)
+** TODO Create HTML files
+*** TODO Log Form
+**** Date, Opponent Name, Platform, Category, My Score, Their Score, Result (W, L, DC W, DC L)
+*** TODO Log List
+**** How do we handle edit/delete
+*** TODO Log Header
+*** Log Filters? Log Search?
+*** Public Review
